@@ -1,5 +1,7 @@
 let http = require('http'),
     url = require('url'),
+    fs = require('fs'),
+    util = require('util'),
     superagent = require('superagent'),
     cheerio = require('cheerio'),
     async = require('async'),
@@ -15,11 +17,13 @@ const prefixRrl = 'https://www.tdcj.texas.gov/death_row/';
 superagent.get('https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html')
     .end(function(err, pres){
         if (err) {
-            return throw Error(err);
+            throw Error(err);
         } 
         let $ = cheerio.load(pres.text);
-        $('.tdcj_table.indent tr').each(function(i){
+        $('.tdcj_table.indent tr').each(function(){
             let td = $(this).eq(0).find('td');
+
+            urlsArray.push(td.eq(2).find('a').attr('href'));
         
             dataArr.push({
                 execution: td.eq(0).text(),
@@ -30,7 +34,9 @@ superagent.get('https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html'
                 date: td.eq(7).text(),
             });
         });
-        console.log(dataArr);
+        fs.writeFileSync('./data.js', JSON.stringify(dataArr, null, 4) , 'utf-8');
+        // console.log(dataArr);
     });
+
 
 
