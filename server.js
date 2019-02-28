@@ -35,7 +35,6 @@ superagent.get('https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html'
             });
         });
         fs.writeFileSync('./data.js', JSON.stringify(dataArr, null, 4) , 'utf-8');
-        // console.log(dataArr);
     });
 
 
