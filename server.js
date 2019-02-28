@@ -7,9 +7,7 @@ let http = require('http'),
     async = require('async'),
     eventproxy = require('eventproxy');
 let ep = new eventproxy(),
-    urlsArray = [],
-    pageUrls = [],
-    pageNum = 200;
+    urlsArray = [];
 
 const dataArr = [];
 const prefixRrl = 'https://www.tdcj.texas.gov/death_row/';
