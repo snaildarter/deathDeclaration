@@ -1,9 +1,7 @@
 const fs = require('fs'),
-    path = require('path'),
     superagent = require("superagent"),
     cheerio = require("cheerio"),
     async = require("async");
-
 
 const log = console.log;
 const deathRowInfoUrl =  'https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html'; // 主页url
@@ -40,33 +38,23 @@ superagent.get(deathRowInfoUrl).end(function (err, pres) {
     getInfo(urlsArray);
 });
 
-// getInfo(urlsArray);
 // 获取信息
 function getInfo() {
-    let curCount = 0;  // 控制并发数
     let reptileMove = function (url, callback) {
-        let delay = parseInt((Math.random() * 40000000) % 1000, 10);
-        curCount++;
-        log('现在的并发数是', curCount, '，正在抓取的是', url);
-
         superagent.get(url).end(function (err, sres) {
             if (err) {
                 log(err);
                 return;
             }
-            
             let i = urlsArray.indexOf(url);
-            dataArr[i]['lastStatement'] = cheerio.load(sres.text)('#content_right').find('p').eq(5).text();
+            dataArr[i]['lastStatement'] = cheerio.load(sres.text)('#content_right').text().split('Last Statement:')[1];
             callback(null, i);
-            log('获得成功', url);
-            setTimeout(function () {
-                curCount--;
-            }, delay);
+            log('获得成功', url, i);
         });
     };
-
     // 使用async控制异步抓取  mapLimit(arr, limit, iterator, [callback]) 异步回调
-    async.mapLimit(urlsArray, 8, function (url, callback) {
+    //  网路不好的时候limit最好写小一点，不然有问题的
+    async.mapLimit(urlsArray, 3, function (url, callback) {
         reptileMove(url, callback);
     }, function (err, result) {
         if (err) log(err);
