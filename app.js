@@ -48,10 +48,13 @@ function getInfo() {
                 log(JSON.stringify(err, null, 4));
                 return;
             }
+            let delay = parseInt((Math.random() * 30000000) % 1000, 10);
             let i = urlsArray.indexOf(url);
-            dataArr[i]['lastStatement'] = cheerio.load(sres.text)('#content_right').text().split('Last Statement:')[1];
-            log('获取成功', i);
-            callback(null, i);
+            dataArr[i]['lastStatement'] = cheerio.load(sres.text)('#content_right').text().split('Last Statement:')[1].replace(/^\s+|\s+$/g,"");
+            setTimeout(function(){
+                callback(null, i);
+                log('获取成功', i);
+            }, delay);
         });
     };
     // 使用async控制异步抓取  mapLimit(arr, limit, iterator, [callback]) 异步回调
