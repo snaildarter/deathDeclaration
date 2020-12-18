@@ -1,4 +1,4 @@
-[
+module.exports =  [
     {
         "execution": "570",
         "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/wardlowbilly.html",

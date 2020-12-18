@@ -6,9 +6,9 @@
 
 [Death Row Information](https://www.tdcj.texas.gov/death_row/dr_executed_offenders.html)
 
-假如 不想自己跑项目，可以点击  [查看](./data.csv)
+假如 不想自己跑项目，可以点击  [查看excel](./data.csv)
 
-或者 [查看](./data.js)
+或者 [查看js](./data.js)
 
 如果想自己试下可以执行以下顺序
 

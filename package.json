@@ -4,13 +4,15 @@
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
-    "tocsv": "node csv.js"
+    "tocsv": "ts-node csv.ts"
   },
   "license": "MIT",
   "dependencies": {
     "async": "^2.6.2",
     "cheerio": "^1.0.0-rc.2",
     "fast-csv": "^ 4.3.6",
-    "superagent": "^4.1.0"
+    "superagent": "^4.1.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
   }
 }
