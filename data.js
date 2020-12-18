@@ -1,5 +1,85 @@
 [
     {
+        "execution": "570",
+        "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/wardlowbilly.html",
+        "lastStatement": "No statement given.",
+        "name": "Wardlow Billy",
+        "age": "45",
+        "date": "7/8/2020"
+    },
+    {
+        "execution": "569",
+        "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/ochoaabel.html",
+        "lastStatement": "Yes sir. I  would like to thank God, my dad, my Lord Jesus savior for saving me and changing  my life. I want to apologize to my in-laws for causing all this emotional pain.  I love y’all and consider y’all my sisters I never had. I want to thank you for  forgiving me. Thank you warden.",
+        "name": "Ochoa Abel",
+        "age": "47",
+        "date": "2/6/2020"
+    },
+    {
+        "execution": "568",
+        "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/gardnerjohn.html",
+        "lastStatement": "Thank you thank you  where’s the family, ok I would like to say sorry for the grief I have caused. I  hope you find peace, joy and closure. Whatever it takes to forgive me. I am  sorry. I know you cannot forgive me but I hope one day you will. To my friends,  I love ya’ll. You have been good and such good influence people. I want to see  the Lord Jesus so bad. I hope you all understand. I am going to ask the Warden  to start. And ask Jesus to help them to forgive me one day please. I am very  sorry. For you guys I love you. Thank you Warden.",
+        "name": "Gardner John",
+        "age": "64",
+        "date": "1/15/2020"
+    },
+    {
+        "execution": "567",
+        "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/runnelstravis.html",
+        "lastStatement": "None",
+        "name": "Runnels Travis",
+        "age": "46",
+        "date": "12/11/2019"
+    },
+    {
+        "execution": "566",
+        "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/halljusten.html",
+        "lastStatement": "Yeah, I want to  address the Roundtree family and apologize for the pain and suffering I caused.  And to the Diaz’s family that I had to put you through this, it should have  never happened. And to my mom and Morelia I love you and I’m going to miss you  all. I’m ready",
+        "name": "Hall Justen",
+        "age": "38",
+        "date": "11/6/2019"
+    },
+    {
+        "execution": "565",
+        "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/sparksrobert.html",
+        "lastStatement": "Umm, Pamela can you  hear me Stephanie, Hardy, Marcus tell all the family I love them. I am sorry  for the hard times and what hurts me is that I hurt y’all and um even for y’all  too and Patricia she wrote me tell Patricia I wrote her back and to tell y’all what  I said. I love y’all. I am ready",
+        "name": "Sparks Robert",
+        "age": "45",
+        "date": "9/25/2019"
+    },
+    {
+        "execution": "564",
+        "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/solizmarkanthony.html",
+        "lastStatement": "It’s 6:09 on  September 10th, Kayla and David, I wanted to apologize for the grief  and the pain that I caused y’all .I’ve been considering changing my life. It  took me 27 years to do so. Man, I want to apologize, I don’t know if me passing  will bring y’all comfort for the pain and suffering I caused y’all. I am at  peace. I understand now the pain that I caused y’all man, I don’t know what  else to say. It took a while to drag these years out. I am going with a humble  heart. I made wrong decisions but, I forgave myself. I made a discussion not  because of myself but because of everyone else. I forgave myself not for y’all  but the pain I caused to my family.\nOh man I  didn’t’ know if y’all would come or not but I am glad y’all did so I could talk  to y’all. I know the pain when I talk to my grandma. I’m just glad I got a  chance to talk to y’all. \nFreddie,  Sonia, Sofia, Oh man, thank you Jesus. I love y’all but glad you brought Jesus  into my life. Mom and Dad throughout the years I turned my back on God for the wrong  that I thought He committed now that I have found Him, let everyone know that I  love them because He is there. I have love for y’all. Tell mom I love them and  let dad know. To all my supporters out there thank you for the support and  positive wisdom and words. And to all the people who wrote me, and to all the  people who have people on death row show them love and support. They need it.  Thank you for putting in the effort. I want to thank those that did. Bubble and  Sofia God loves y’all. I love y’all. Mr. Warden I’m ready.",
+        "name": "Soliz Mark",
+        "age": "37",
+        "date": "9/10/2019"
+    },
+    {
+        "execution": "563",
+        "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/crutsingerbilly.html",
+        "lastStatement": "Hi ladies I wanted to  tell ya’ll how much I love you. Thank you for being here for me. You have  brought pleasure into my life in the short time I lived and known ya’ll. Ya’ll  are very special not just to me but to the unit. There are so many lives that  yall have touched over there that yall don’t even know about that guys talk  about in the back .I am at peace now with and going to be with Jesus and my  family. I am going to miss those pancakes and those old time black and white  shows. Where I am going everything will be in color. There is a lot of this I  don’t understand but the system is not completely right. It’s not completely  wrong but, it is something that has to be done until something better comes  along. But, I am at peace with that and I am ok and I can live with that. The  15 or 16 years that I have been on death row I have never had a case that  doesn’t mean that I am a good guy or nothing I have the Lord in my heart and He  has given me peace I will be honest with you. I am going to go tell your mother  and David I am glad you made it and you didn’t pass out on the line. OK Warden  I am ready.",
+        "name": "Crutsinger Billy",
+        "age": "64",
+        "date": "9/4/2019"
+    },
+    {
+        "execution": "562",
+        "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/swearingenlarry.html",
+        "lastStatement": "Lord forgive them.  They don’t know what they are doing",
+        "name": "Swearingen Larry",
+        "age": "48",
+        "date": "8/21/2019"
+    },
+    {
+        "execution": "561",
+        "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/kingjohn.html",
+        "lastStatement": "Spoken: No.\nWritten Statement: Capital Punishment: Them without the capital get the punishment.",
+        "name": "King John",
+        "age": "44",
+        "date": "4/24/2019"
+    },
+    {
         "execution": "559",
         "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/jenningsrobert.jpg",
         "lastStatement": "To my friends and family it was a nice journey. To the  family of the police officer I hope this finds you peace and be well and stay  safe. Enjoy life’s moments because we never get them back.",
@@ -301,7 +381,7 @@
         "lastStatement": "Yes sir, I want to say I love you to all my family and friends. Thank you Lord for your mercy and unconditional love. In Jesus name I pray, Amen.",
         "name": "Vasquez Manuel",
         "age": "46",
-        "date": "03/12/2015"
+        "date": "03/11/2015"
     },
     {
         "execution": "521",
@@ -491,7 +571,7 @@
         "execution": "498",
         "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/williamsjeffery.html",
         "lastStatement": "You clown police. You gonna stop with all that killing all these kids. You're gonna stop killing innocent kids, murdering young kids. When I kill one or pop one, ya'll want to kill me. God has a plan for everything. You hear? I love everyone that loves me. I ain't got no love for anyone that don't love me.",
-        "name": "Williams Jeffrey",
+        "name": "Williams Jefferey",
         "age": "37",
         "date": "05/15/2013"
     },
@@ -523,7 +603,7 @@
         "execution": "494",
         "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/lewisrickey.html",
         "lastStatement": "Ms. Connie Hilton, I'm sorry for what happened to you. If I hadn't raped you, then you wouldn't have lived. If you look at the transcripts, I didn't kill Mr. Newman and I didn't rob your house. There are two people still alive. I was just there. When I saw you in the truck driving away, I could have killed you but I didn't. I'm not a killer. My momma was abused. I'm sorry for what you've gone through. It wasn't me that harmed and stole all of your stuff. If you look at the transcripts you will see. I ask the good Lord to forgive me.\nI love ya'll; Sheena, my sister, momma, and daddy. Ya'll pray for me, keep up the fight. Get the transcripts, let the truth come out so that I do not die in vain. I thank the Lord for the man I am today. I have done all I can to better myself, to learn to read and write. Take me to my King. I love ya'll and thank you for the love you gave me. I respect all of ya'll. Ms. Hilton. Ok. Let me rest. It's burning.",
-        "name": "Lewis Rickey",
+        "name": "Lewis Ricky",
         "age": "50",
         "date": "04/09/2013"
     },
@@ -1427,7 +1507,7 @@
         "execution": "381",
         "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/moorejohnathan.jpg",
         "lastStatement": "Jennifer, where are you at?  I'm sorry, I did not know the man but for a few seconds before I shot him.  It was done out of fear, stupidity, and immaturity.  It wasn't until I got locked up and saw the newspaper.  I saw his face and his smile and I knew he was a good man.  I am sorry for all your family and my disrespect - he deserved better.  Sorry Gus.  I hope all the best for you and your daughters.  I hope you have happiness from here on out.  Quit the heroin and methadone.  I love you dad, Devin, and Walt.  We're done Warden.",
-        "name": "Moore Jonathan",
+        "name": "Moore Johnathan",
         "age": "32",
         "date": "01/17/2007"
     },
@@ -1683,7 +1763,7 @@
         "execution": "349",
         "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/newtonfrancis.jpg",
         "lastStatement": "https://www.tdcj.texas.gov/death_row/dr_info/no_last_statement.html",
-        "name": "Newton Francis",
+        "name": "Newton Frances",
         "age": "40",
         "date": "09/14/2005"
     },
@@ -2059,7 +2139,7 @@
         "execution": "302",
         "userInfoUrl": "https://www.tdcj.texas.gov/death_row/dr_info/chavezjohn.jpg",
         "lastStatement": "To the media, I would like for you to tell all the victims and their loved ones that I am truly, truly sorry for taking their loved ones' lives.  And I hope they will find it in their heart to forgive me for what I did to them.  I am a different person now, but that does not change the fact of the bad things I have committed.  God can give you the same peace He gave me and you can be in His hands.  And to my beautiful family, be strong.  Remember what I said, \"God is the Way, the Truth, and the Life.\"  OK, Warden.",
-        "name": "Chavez John",
+        "name": "Chavez Juan",
         "age": "34",
         "date": "04/22/2003"
     },

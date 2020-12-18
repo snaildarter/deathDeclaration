@@ -10,7 +10,6 @@
   "dependencies": {
     "async": "^2.6.2",
     "cheerio": "^1.0.0-rc.2",
-    "eventproxy": "^1.0.0",
     "fast-csv": "^2.4.1",
     "superagent": "^4.1.0"
   }
