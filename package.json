@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^3.2.2",
     "cheerio": "^1.0.0-rc.2",
     "fast-csv": "^ 4.3.6",
     "superagent": "^4.1.0",
